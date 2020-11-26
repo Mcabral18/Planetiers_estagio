@@ -1,1 +1,1 @@
-http://www.planetiersnewgeneration.com/temp/
+https://planetiers.com
